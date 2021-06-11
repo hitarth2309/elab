@@ -1,0 +1,53 @@
+body {
+  background: #e2e1e0;
+  text-align: center;
+  
+}
+
+.card {
+  background: #fff;
+  border-radius: 7px;
+  display: inline-block;
+  height: 370px;
+  margin: 5px;
+  margin-top: 10px;
+  position: relative;
+  width: 240px;
+  Transition: .3s all;
+}
+
+
+
+.card-1:hover {
+  box-shadow: 0 14px 28px rgba(62,193,213,0.25), 0 10px 10px rgba(62,193,213,0.22) ;
+}
+.card-2:hover {
+  box-shadow: 0 14px 28px rgba(62,193,213,0.25), 0 10px 10px rgba(62,193,213,0.22);
+}
+
+.card-3:hover {
+  box-shadow: 0 14px 28px rgba(62,193,213,0.25), 0 10px 10px rgba(62,193,213,0.22);
+}
+
+.card-4:hover {
+  box-shadow: 0 14px 28px rgba(62,193,213,0.25), 0 10px 10px rgba(62,193,213,0.22);
+}
+
+.card-5:hover {
+  box-shadow: 0 14px 28px rgba(62,193,213,0.25), 0 10px 10px rgba(62,193,213,0.22);
+}
+
+.card-6:hover {
+  box-shadow: 0 14px 28px rgba(62,193,213,0.25), 0 10px 10px rgba(62,193,213,0.22);
+}
+.card-7:hover {
+  box-shadow: 0 14px 28px rgba(62,193,213,0.25), 0 10px 10px rgba(62,193,213,0.22);
+}
+.card-8:hover {
+  box-shadow: 0 14px 28px rgba(62,193,213,0.25), 0 10px 10px rgba(62,193,213,0.22);
+}
+
+.card-9:hover {
+  box-shadow: 0 14px 28px rgba(62,193,213,0.25), 0 10px 10px rgba(62,193,213,0.22);
+}
+
